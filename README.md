@@ -2,7 +2,7 @@
 
 ₿uilder is a monthly meetup focused on discussing product, design, and AI tools for individuals building on bitcoin. Everyone is welcome, whether you're an experienced product manager or designer, just starting out, or simply curious to learn.
 
-Each month the agenda is community-generated. Have a topic? [DM us on Twitter](https://x.com/bitcoingrove) or submit a pull request to the relevent event file under the `meetups` folder.
+Each month the agenda is community-generated. Have a topic? [DM us on Twitter](https://x.com/buildermiami) or leave a comment on the open [issue.](https://github.com/Bitcoin-Grove/BuilderMiami/issues)
 
 The moderators will compile all the ideas into an ordered list to guide the discussion. 
 
