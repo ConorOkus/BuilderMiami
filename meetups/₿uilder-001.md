@@ -34,14 +34,15 @@ Discussions (40 mins)
 
 Bitcoin Product News
 ----
-- [Easy Bitcoin Address](https://easybitcoinaddress.me/)
 - [Wavecard](https://www.wave.space/blog/how-to-spend-bitcoin-btc-at-150m-merchants-worldwide-directly-from-self-custody) is a debit card that can spend bitcoin from self-custody, fully automatically based on Nostr Wallet Connect
 - [Bringin](https://x.com/bringinxyz/status/1937833430688952451) introduces lightning address connected to virtual IBAN accounts.
+- [Easy Bitcoin Address](https://easybitcoinaddress.me/)
 - [Flash](https://x.com/LightningNewsX/status/1932709940776612083) launches an invoicing tool for freelancers and businesses including payment links and downloadable PDFs.
 - [Alby MCP Server](https://blog.getalby.com/alby-mcp-server-payments-for-your-ai-agent/) - Payments for your AI Agent
 
 Bitcoin Design News
 ----
+- [Bitcoin Design Week](https://x.com/bitcoin_design/status/1947737029833593152)
 
 Bitcoin Regulatory News
 ----
