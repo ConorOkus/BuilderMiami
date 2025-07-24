@@ -21,32 +21,36 @@ Housekeeping
 
 Vibe-Coded App Showcase (15 mins)
 ----
-
-Startup Showcase (15 mins)     
-----
- - [Amboss](https://amboss.tech/blog/introducing-rails)
+ - Conor to build a themed web based bitcoin wallet
 
 Discussions (40 mins)
 ----
 - [The emergence of vibecoding](https://changelog.com/friends/96)
+- ₿-only convention for displaying bitcoin quantities
+  - [BIP-177](https://github.com/bitcoin/bips/pull/1821) describes a new approach to bitcoin units that deprecates both the use of decimals and the usage of “sats/satoshis”
+  - New page added to [Design guide](https://bitcoin.design/guide/designing-products/units-and-symbols/) with proposed best practices
+  - [Boardwalk Cash is an example of a product leading and embracing the change](https://boardwalkcash.com/wallet)
+  - [Coin Standard](https://coinpill.me/)
 - TradFi payments vs. stablecoins vs. bitcoin: Where does bitcoin separate itself?
 - Connecting wallets to every days apps e.g [Nostr Wallet Connect](https://nwc.dev/)
 
-Bitcoin Product News
+News
 ----
+- [Wallet of Satoshi moves to Spark](https://x.com/walletofsatoshi/status/1940169795565146571)
+- [Cove Wallet](https://covebitcoinwallet.com/)
+- [Coinbase Credit Coinbase](https://www.americanexpress.com/en-us/newsroom/articles/innovation/new-coinbase-one-card-to-launch-on-the-american-express-network.html)
+- Block rolls out [Bitcoin payments on Square](https://block.xyz/inside/block-to-roll-out-bitcoin-payments-on-square) at the Bitcoin 2025 Conference in Las Vegas
+  - Steak N Shake reports [50% savings on processing fees when using BTC](https://bitcoinmagazine.com/news/steak-n-shake-reveals-bitcoin-payment-success-at-bitcoin-2025-conference)
 - [Wavecard](https://www.wave.space/blog/how-to-spend-bitcoin-btc-at-150m-merchants-worldwide-directly-from-self-custody) is a debit card that can spend bitcoin from self-custody, fully automatically based on Nostr Wallet Connect
 - [Bringin](https://x.com/bringinxyz/status/1937833430688952451) introduces lightning address connected to virtual IBAN accounts.
 - [Easy Bitcoin Address](https://easybitcoinaddress.me/)
 - [Flash](https://x.com/LightningNewsX/status/1932709940776612083) launches an invoicing tool for freelancers and businesses including payment links and downloadable PDFs.
 - [Alby MCP Server](https://blog.getalby.com/alby-mcp-server-payments-for-your-ai-agent/) - Payments for your AI Agent
-
-Bitcoin Design News
-----
 - [Bitcoin Design Week](https://x.com/bitcoin_design/status/1947737029833593152)
 
-Bitcoin Regulatory News
+Startup Showcase (15 mins)     
 ----
-- [Clarity Act](https://www.coincenter.org/its-time-to-pass-the-clarity-act/)
+ - [Amboss](https://amboss.tech/blog/introducing-rails)
 
 Misc
 ----
