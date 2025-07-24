@@ -1,7 +1,7 @@
-+++
-title = "₿uilder 001"
-date = 2025-06-26
-+++
+₿uilder Miami 1
+
+July 24th 2025
+
 
 Housekeeping
 ------------
