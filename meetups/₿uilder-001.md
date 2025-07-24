@@ -21,6 +21,7 @@ Housekeeping
 
 Vibe-Coded App Showcase (15 mins)
 ----
+ - Conor to build a themed web based bitcoin wallet
 
 Discussions (40 mins)
 ----
