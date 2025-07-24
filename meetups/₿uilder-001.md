@@ -29,6 +29,7 @@ Discussions (40 mins)
   - [BIP-177](https://github.com/bitcoin/bips/pull/1821) describes a new approach to bitcoin units that deprecates both the use of decimals and the usage of “sats/satoshis”
   - New page added to [Design guide](https://bitcoin.design/guide/designing-products/units-and-symbols/) with proposed best practices
   - [Boardwalk Cash is an example of a product leading and embracing the change](https://boardwalkcash.com/wallet)
+  - [Coin Standard](https://coinpill.me/)
 - TradFi payments vs. stablecoins vs. bitcoin: Where does bitcoin separate itself?
 - Connecting wallets to every days apps e.g [Nostr Wallet Connect](https://nwc.dev/)
 
