@@ -50,7 +50,7 @@ News
 
 Startup Showcase (15 mins)     
 ----
- - [Amboss](https://amboss.tech/blog/introducing-rails)
+ - [Bitcoin UI Kit](https://github.com/sbddesign/bui)
 
 Misc
 ----
