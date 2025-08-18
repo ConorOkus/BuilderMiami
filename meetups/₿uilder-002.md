@@ -25,6 +25,7 @@ News
 ----
 - [Timechain Arcade](https://timechainarcade.com) lets you play browser-based bitcoin games that teach real mechanics.
 - [PayPal](https://fortune.com/crypto/2025/07/28/paypal-100-cryptocurrencies-accept-merchants-bitcoin-ethereum) enables bitcoin acceptance for all US merchants. Another step of bitcoin mainstream adoption.
+- [Google Play excludes non-custodial wallets](https://atlas21.com/google-play-excludes-non-custodial-wallets-from-the-new-crypto-app-rules/)
 
 Startup Showcase (15 mins)     
 ----
