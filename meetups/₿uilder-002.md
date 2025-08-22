@@ -20,6 +20,7 @@ Vibe-Coded App Showcase (15 mins)
 Discussions + Q&A Topics (40 mins)
 ----
 - Building privacy focused apps and infrastructure
+- [Banish the term PSBT from the UI/UX of software wallets](https://x.com/salvatoshi/status/1958063600779526259)
 
 News
 ----
