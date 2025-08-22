@@ -15,17 +15,18 @@ Housekeeping
  
 Vibe-Coded App Showcase (15 mins)
 ----
-- TBC
+- [Vibe coded Chrome extension using Voltage payment APIs](https://x.com/ecurrencyhodler/status/1957552060771315769)
 
 Discussions + Q&A Topics (40 mins)
 ----
-- Building privacy focuses apps and infrastructure
+- Building privacy focused apps and infrastructure
 
 News
 ----
 - [Timechain Arcade](https://timechainarcade.com) lets you play browser-based bitcoin games that teach real mechanics.
 - [PayPal](https://fortune.com/crypto/2025/07/28/paypal-100-cryptocurrencies-accept-merchants-bitcoin-ethereum) enables bitcoin acceptance for all US merchants. Another step of bitcoin mainstream adoption.
 - [Google Play excludes non-custodial wallets](https://atlas21.com/google-play-excludes-non-custodial-wallets-from-the-new-crypto-app-rules/)
+- [Bitcoin tipping on X with BitBit](https://x.com/bitbit_bot/status/1957474105651003861)
 
 Startup Showcase (15 mins)     
 ----
