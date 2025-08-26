@@ -21,6 +21,7 @@ Discussions + Q&A Topics (40 mins)
 ----
 - Building privacy focused apps and infrastructure
 - [Banish the term PSBT from the UI/UX of software wallets](https://x.com/salvatoshi/status/1958063600779526259)
+- What's the best way to pass along Bitcoin to normies in the case of an untimely death?
 
 News
 ----
@@ -31,4 +32,4 @@ News
 
 Startup Showcase (15 mins)     
 ----
- - TBC
+ - [Hoseki](https://www.hoseki.app/)
