@@ -22,6 +22,8 @@ Discussions + Q&A Topics (40 mins)
 - Building privacy focused apps and infrastructure
 - [Banish the term PSBT from the UI/UX of software wallets](https://x.com/salvatoshi/status/1958063600779526259)
 - What's the best way to pass along Bitcoin to normies in the case of an untimely death?
+- What can we build with an OP_CAT upgrade?
+- Do Bitcoin products do enough [UX research](https://bitcoinresearch.xyz/)?
 
 News
 ----
