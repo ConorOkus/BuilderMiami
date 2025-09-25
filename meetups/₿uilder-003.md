@@ -16,7 +16,7 @@ Housekeeping
 
 Vibe-Coded App Showcase (15 mins)
 ----
-- Starts off with a demo of Phoenix wallet followed by a design and UX crituque 
+- Starts off with a demo of Phoenix wallet followed by a design and UX critique 
 - Conor attempts to make small changes based on the feedback with the help of Claude...
 
 Discussions + Q&A Topics (40 mins)
